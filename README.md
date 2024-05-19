@@ -1,4 +1,4 @@
-These codes were used for the diploma thesis that dealt with multiple myeloma segmentation in the whole-body CT data.
+These scripts were used for the diploma thesis that dealt with multiple myeloma segmentation in the whole-body CT data.
 The trained models are available at:
 
 MATLAB:
